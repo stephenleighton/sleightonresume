@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/stephenleighton/sleightonresume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## **Work Experience**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_Chick-fil-A Front of House Hospitality Worker_
+Helped the guests in the dining room, worked with customers on the register and with outside order taking, and made drinks and bagged food in lunch/dinner rush situations.
 
-### Markdown
+_Vista Storm Premier U10 Coach_
+Coached the U10 Rec All-Star team in the Scripps Ranch tournament, Tournament of All-Stars, and a championship at the Commissioner’s Cup.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## **Education**
 
-# Header 1
-## Header 2
-### Header 3
+_Mission Vista High School_
+High School Diploma
 
-- Bulleted
-- List
+_MiraCosta College_
+Currently pursuing Associates Degree in Math/Sciences
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## **Programming Projects**
 
-[Link](url) and ![Image](src)
-```
+_Paint Calculator_
+Developed a calculator to be used by a paint company to add clients, delete clients, and calculate the cost to paint each room/wall.  Programmed in Java
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## **Skills**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stephenleighton/sleightonresume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_Fluent Languages:_ Java
 
-### Support or Contact
+_Secondary Languages:_ HTML
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_Other Skills:_ Customer Service Experience
+
+
+## **Honors and Awards**
+
+_MVHS Cross Country Team Captain_
+Team Captain in 2015-16 of MVHS Varsity Cross Country team
+
+_MVHS Cross Country Best Individual Performance 2014-15, 2015-16; CIF Finals_
+Lead my team through majority of the CIF Finals, finished first on team in 2015.
