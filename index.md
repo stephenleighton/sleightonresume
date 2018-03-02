@@ -39,10 +39,10 @@ _Other Skills:_ Customer Service Experience
 
 ## **Honors and Awards**
 
-_MVHS Cross Country Team Captain_
+_MVHS Cross Country Team Captain:_
 
 Team Captain in 2015-16 of MVHS Varsity Cross Country team
 
-_MVHS Cross Country Best Individual Performance 2014-15, 2015-16; CIF Finals_
+_MVHS Cross Country Best Individual Performance 2014-15, 2015-16; CIF Finals:_
 
 Lead my team through majority of the CIF Finals, finished first on team in 2015.
